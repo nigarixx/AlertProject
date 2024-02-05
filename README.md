@@ -1,4 +1,4 @@
-Swift Basic Alert Function 🛎️
+Basic Alert Function 🛎️
 
 A simple Swift project demonstrating how to implement a basic alert function in iOS using Swift.
 
